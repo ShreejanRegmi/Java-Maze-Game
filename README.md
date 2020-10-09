@@ -1,2 +1,5 @@
 # Java-Maze-Game
-Extract the folder within the zip files and import the folder into eclipse workspace for it to run
+
+A ball maze game with moving obstacles created using Java Swing.
+
+Import the folder into eclipse workspace to run.
